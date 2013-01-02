@@ -1,0 +1,1 @@
+based on: http://www.codeproject.com/Articles/1400/A-C-Implementation-of-the-Blowfish-Encryption-Decr
